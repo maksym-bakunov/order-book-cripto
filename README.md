@@ -23,7 +23,6 @@ This simple application outputs in log the difference in price levels (price) be
 
 - Java 11
 - Maven
-- Spring (MVC, Security)
 
 ## How To Use
 
