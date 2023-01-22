@@ -8,7 +8,7 @@ import org.example.services.impl.OrderBookServiceImpl;
 public class Main {
     private static final int limit = 5000;
     private static final int timeOut = 10000;
-    private static final int steps = 0;
+    private static final int steps = 10;
 
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newSingleThreadExecutor();

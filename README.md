@@ -1,6 +1,6 @@
 # 	₿ ORDER BOOK ₿:
 
-<h4 align="center">The simple web application to get cumulative resizing of asks and bits.</h4>
+<h4 align="center">The simple application to get cumulative resizing of asks and bits.</h4>
 
 <p align="center">
   <a href="#description">Description</a> •
@@ -14,7 +14,7 @@
 This simple application outputs in log the difference in price levels (price) between the previous and current request.
 
 ## Structure
-#### This web application structure is N-tier architecture model that including the following layers:
+#### This application structure is N-tier architecture model that including the following layers:
 - Service
 - Model
 - DAO
